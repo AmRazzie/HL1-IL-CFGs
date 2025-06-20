@@ -1,4 +1,5 @@
 Paste these into your userconfig.cfg for quick run start command, make sure config files are in the "IL-CFG" folder.    
+Demos will be recorded into their own organized folders in "IL-DEMOS" folder.    
 
 //Individual Levels    
 alias "AM" "exec IL-CFG/AM-IL.cfg"    
