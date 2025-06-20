@@ -1,6 +1,6 @@
-Paste these into your userconfig.cfg for quick run start command, make sure config files are in the "IL-CFG" folder.
+Paste these into your userconfig.cfg for quick run start command, make sure config files are in the "IL-CFG" folder.    
 
-//Individual Levels
+//Individual Levels    
 alias "AM" "exec IL-CFG/AM-IL.cfg"    
 alias "APP" "exec IL-CFG/APP-IL.cfg"    
 alias "BP" "exec IL-CFG/BP-IL.cfg"    
